@@ -1,0 +1,4 @@
+{
+	"mongoURI": "Preencha a URI de seu BD",
+	"jwtSecret": "secret"
+}

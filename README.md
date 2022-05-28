@@ -7,7 +7,7 @@ Essa API tem o intuito de ser um serviço que registra e loga usuários em uma a
 ## Configuração
 
 ```jsx
-Abra o arquivo config/default.json file e preencha sua mongoURI e seu jwtSecret
+Abra o arquivo config/default.json e preencha sua mongoURI e seu jwtSecret
 ```
 
 Rode no terminal os seguintes scripts (é necessário que o nodeJS estejam instalados em seu OS)

@@ -20,7 +20,7 @@ npm run server
 O servidor rodará localmente na seguinte URL
 
 ```jsx
- [http://localhost:5000](http://localhost:5000/)
+ [http://localhost:5000]
 ```
 
 ## Endpoints da API
@@ -37,7 +37,7 @@ O servidor rodará localmente na seguinte URL
     - Body
         
         ```jsx
-        	{
+         {
               "name": "",
               "email": "",
               "password": ""
